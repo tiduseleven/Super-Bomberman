@@ -1,0 +1,18 @@
+Ici sont toutes les sources des différents éléments visuels et auditifs qui ont été empruntés sur le web:
+
+##################
+# SPRITES DU JEU #
+##################
+
+Toutes les sprites: https://www.spriters-resource.com/snes/sbomber/
+
+####################
+# MUSIQUES ET SONS #
+####################
+
+Musique de l'écran d'attente: Mii Channel Theme - Nintendo
+Musique du jeu : Megalovania - Undertale (Toby Fox)
+Ecran de fin de partie, vainqueur: Victory Fanfare - Final Fantasy VII (Square Enix f.k.a Squaresoft)
+Ecran de fin de partie, pas vainqueur: Determination - Undertale (Toby Fox)
+
+Bruitages : https://opengameart.org/content/512-sound-effects-8-bit-style
